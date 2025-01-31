@@ -2,6 +2,7 @@
   "expo": {
     "name": "adminResturant",
     "slug": "adminResturant",
+    "plugins": ["expo-router"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
